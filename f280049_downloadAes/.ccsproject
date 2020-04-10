@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<ccsVersion value="9.0.0"/>
+	<deviceVariant value="TMS320C28XX.TMS320F280049M"/>
+	<deviceFamily value="C2000"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="18.12.1.LTS"/>
+	<isElfFormat value="false"/>
+	<rts value="libc.a"/>
+	<createSlaveProjects value=""/>
+	<templateProperties value="id=sci_ex1_echoback.projectspec.sci_ex1_echoback"/>
+	<origin value="D:\ti\c2000\C2000Ware_2_00_00_02\device_support\f28004x\examples\sci\CCS\sci_ex1_echoback.projectspec"/>
+	<filesToOpen value=""/>
+	<connection value="common/targetdb/connections/TIXDS110_Connection.xml"/>
+	<isTargetManual value="false"/>
+</projectOptions>
